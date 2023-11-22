@@ -11,3 +11,6 @@ https://ersyaofficial.my.id/DreamHome./
 Azuwan Azmanda
 
 https://www.figma.com/file/uFtkAklAPzJop3N8v9dRF6/Aszu-Clothing?type=design&node-id=0%3A1&mode=design&t=yW6QqLINi8jz25B8-1
+
+Dan berikut ini Webstite saya yang sudah di upload ke server
+http://aszu.ersyaofficial.my.id/aszuclothing/
